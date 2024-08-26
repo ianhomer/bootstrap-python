@@ -1,0 +1,2 @@
+# Module dependencies here, e.g.
+# pytest-bdd==7.1.2
